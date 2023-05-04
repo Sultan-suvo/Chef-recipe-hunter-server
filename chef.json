@@ -4,7 +4,7 @@
     "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
     "chef_name": "Chef John Buon",
     "years_of_experience": 10,
-    "number_of_recipes": 3,
+    "number_of_recipes": 4,
     "likes": 1000,
     "recipes": [
       {
@@ -65,14 +65,14 @@
         "cooking_method": "1. In a small bowl, whisk together the olive oil, lemon juice, honey, garlic, rosemary, thyme, salt, and pepper.\n2. Place the chicken in a large resealable plastic bag and pour the marinade over the top. Seal the bag and massage the chicken to coat evenly with the marinade. Marinate in the refrigerator for at least 2 hours, or up to 8 hours.\n3. Preheat the grill to medium-high heat. Remove the chicken from the marinade and discard the remaining marinade.\n4. Grill the chicken for 6 to 7 minutes per side, or until cooked through and no longer pink in the center.\n5. Serve the chicken with lemon wedges on the side.",
         "rating": 4.8
       }
-    ]
+    ] 
   },
   {
     "id": 2,
     "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=1060&t=st=1682970015~exp=1682970615~hmac=94f0b10f58a53b828fb325ab63794adc1c8b4325a73a3d0d7408774a083fda4b",
     "chef_name": "Chef JohnSon",
     "years_of_experience": 8,
-    "number_of_recipes": 3,
+    "number_of_recipes": 6,
     "likes": 2000,
     "recipes": [
       {
